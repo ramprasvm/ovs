@@ -52,7 +52,7 @@ Required DPDK 2.0, `fuse`, `fuse-devel` (`libfuse-dev` on Debian/Ubuntu)
 
 2. Configure & build the Linux kernel:
 
-   Refer to intel-dpdk-getting-started-guide.pdf for understanding
+   Refer to [intel-dpdk-getting-started-guide.pdf] for understanding
    DPDK kernel requirement.
 
 3. Configure & build OVS:
@@ -606,3 +606,4 @@ Please report problems to bugs@openvswitch.org.
 [INSTALL.md]:INSTALL.md
 [DPDK Linux GSG]: http://www.dpdk.org/doc/guides/linux_gsg/build_dpdk.html#binding-and-unbinding-network-ports-to-from-the-igb-uioor-vfio-modules
 [DPDK Docs]: http://dpdk.org/doc
+[intel-dpdk-getting-started-guide.pdf]: http://www.intel.com/content/dam/www/public/us/en/documents/guides/intel-dpdk-getting-started-guide.pdf
